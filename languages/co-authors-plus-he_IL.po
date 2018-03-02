@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Co-Author Plus 2.7-alpha\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Itamar Megged\n"
+"MIME-Version: 1.0\n"
+"Language: he_IL\n"
+"X-Generator: Poedit 1.6.10\n"
+
+#. Text in echo
+#: coauthorplus php/co-authors-plus.php:371
+msgid ""
+"<strong>Note:</strong> To edit post authors, please enable javascript or use "
+"a javascript-capable browser"
+msgstr ""
+"<strong>שים לב!</strong> על מנת לערוך כותבים יש לאפשר שימוש בJavaScript "
+"ולהשתמש בדפדפן התומך בJavaScript"
+
+#. Text in function
+#: coauthorplus php/co-authors-plus.php:429
+msgid "Are you sure you want to remove this author?"
+msgstr "האם אתה בטוח שאתה רוצה למחוק את הכותב הזה?"
+
+#. Text in function
+#: coauthorplus php/co-authors-plus.php:383
+msgid "Authors"
+msgstr "כותבים"
+
+#. Text in echo
+#: coauthorplus php/co-authors-plus.php:378 php/co-authors-plus.php:429
+msgid ""
+"Click on an author to change them. Drag to change their order. Click on "
+"<strong>Remove</strong> to remove them."
+msgstr ""
+"לחץ על כותב כדי להחליפו. גרור כותב כדי לשנות את מיקומו. לחץ על "
+"<strong>מחיקה</strong> כדי להסיר כותב."
+
+#. Text in function
+#: coauthorplus php/co-authors-plus.php:429
+msgid "Click to change this author, or drag to change their position"
+msgstr "לחץ על כותב כדי להחליפו. גרור כותב כדי לשנות את מיקומו."
+
+#. Text in function
+#: coauthorplus php/class-coauthors-wp-list-table.php:1
+msgid "Co-Authors"
+msgstr "כותבים אורחים"
+
+#. Text in function
+#: coauthorplus php/class-coauthors-wp-list-table.php:1
+msgid "Delete"
+msgstr "מחיקה"
+
+#. Text in function
+#: coauthorplus php/class-coauthors-wp-list-table.php:1
+msgid "Display Name"
+msgstr "שם תצוגה"
+
+#. Text in function
+#: coauthorplus php/class-coauthors-wp-list-table.php:1
+msgid "E-mail"
+msgstr "דואר אלקטרוני"
+
+#. Text in function
+#: coauthorplus php/co-authors-plus.php:429
+#: php/class-coauthors-wp-list-table.php:1
+msgid "Edit"
+msgstr "עריכה"
+
+#. Text in function
+#: coauthorplus php/class-coauthors-wp-list-table.php:189
+msgid "Filter"
+msgstr "סינון"
+
+#. Text in function
+#: coauthorplus php/class-coauthors-wp-list-table.php:1
+msgid "First Name"
+msgstr "שם פרטי"
+
+#. Text in function
+#: coauthorplus php/class-coauthors-wp-list-table.php:1
+msgid "Last Name"
+msgstr "שם משפחה"
+
+#. Text in function
+#: coauthorplus php/class-coauthors-wp-list-table.php:1
+msgid "Linked Account"
+msgstr "חשבון משתמש מקושר"
+
+#. Text in echo
+#: coauthorplus php/class-coauthors-wp-list-table.php:1
+msgid "No matching guest authors were found."
+msgstr "לא נמצאו כותבים אורחים"
+
+#. Text in function
+#: coauthorplus php/co-authors-plus.php:1
+msgid "Post Authors"
+msgstr "כותבים"
+
+#. Text in function
+#: coauthorplus php/co-authors-plus.php:429
+msgid "Posts"
+msgstr "פוסטים"
+
+#. Text in function
+#: coauthorplus php/co-authors-plus.php:429
+msgid "Remove"
+msgstr "מחיקה"
+
+#. Text in function
+#: coauthorplus php/co-authors-plus.php:429
+msgid "Search for an author"
+msgstr "חיפוש כותב"
+
+#. Text in function
+#: coauthorplus php/co-authors-plus-social-pack.php:1
+msgid "Social"
+msgstr "רשתות חברתיות"
